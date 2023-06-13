@@ -6,8 +6,8 @@
         <div id="right"></div>
         <div id="top"></div>
         <div id="bottom"></div>
-        <b-navbar-item id="fontnavbar" class="title is-2" style="color: green">
-          Sophias Miligram
+        <b-navbar-item id="fontnavbar" class="title is-2" style="color: rgba(143, 79, 228, 0.637)">
+          Hello Again
         </b-navbar-item>
       </template>
     </b-navbar>
